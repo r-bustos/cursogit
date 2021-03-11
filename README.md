@@ -10,3 +10,6 @@ Sistea de control de versiones para el mantenimiento eficiente y confiable de ar
 #Flujo de trabajo básico de git, 3 áreas directorio normal, estado preparación, y direcorio git
 
 #estando todavía en la zona de preparación
+
+esta línea fue creada en la rama master
+
